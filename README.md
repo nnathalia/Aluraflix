@@ -1,1 +1,1 @@
-# Aluraflix
+# Aluraflix - Catálogo de filmes
