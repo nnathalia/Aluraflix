@@ -1,6 +1,6 @@
 # Aluraflix - Catálogo de Filmes
 
-![Aluraflix - Exemplo de interface](image.png)
+![Aluraflix - Exemplo de interface](assets/img/image.png)
 
 ## 🎬 Sobre o Projeto
 
