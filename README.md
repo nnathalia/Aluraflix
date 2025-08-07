@@ -2,6 +2,10 @@
 
 ![Aluraflix - Exemplo de interface](assets/img/image.png)
 
+## 💻 Você pode acessar o projeto aqui
+
+ [Link do site]( https://nnathalia.github.io/Aluraflix/)
+
 ## 🎬 Sobre o Projeto
 
 Este projeto faz parte da **7ª edição da Imersão Dev da Alura**, desenvolvido durante a aula **"Explore estrutura de dados criando um catálogo de filmes"**. O objetivo é criar um catálogo simples e dinâmico de filmes utilizando apenas **HTML, CSS e JavaScript**, com foco no uso de **arrays** para armazenar e exibir dados.
